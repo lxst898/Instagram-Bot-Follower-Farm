@@ -1,0 +1,8 @@
+selenium==4.9.0
+requests==2.31.0
+discord.py
+requests 
+time
+random
+os
+subprocess
